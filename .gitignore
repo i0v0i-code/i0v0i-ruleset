@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.sync.lock
+state/
+*.har
+session.json
+credentials.json
+cookies.lwp
