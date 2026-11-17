@@ -1,4 +1,5 @@
 abuseipdb.com
+ads-twitter.com
 aiv-cdn.net
 aiv-delivery.net
 amazon.co.jp
@@ -125,6 +126,7 @@ ipwhois.io
 jtvnw.net
 kick.com
 line-apps.com
+linkedin.com
 linux.do
 max.com
 maxmind.com
