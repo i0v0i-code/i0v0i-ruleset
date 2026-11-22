@@ -39,8 +39,6 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaresupport.com
 cloudflaretest.com
-cloudflarewarp.com
-cloudflareworkers.com
 cms-twdigitalassets.com
 colorfulpalette.org
 comments.app
@@ -197,10 +195,8 @@ tx.me
 usercontent.dev
 videodelivery.net
 vrv.co
-warp.plus
 whatismyip.com
 whatismyipaddress.com
-workers.dev
 www.nodeseek.com
 x.com
 ytv.co.jp

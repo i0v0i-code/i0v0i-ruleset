@@ -39,8 +39,6 @@ DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudflaresupport.com
 DOMAIN-SUFFIX,cloudflaretest.com
-DOMAIN-SUFFIX,cloudflarewarp.com
-DOMAIN-SUFFIX,cloudflareworkers.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,colorfulpalette.org
 DOMAIN-SUFFIX,comments.app
@@ -197,10 +195,8 @@ DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,vrv.co
-DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,whatismyipaddress.com
-DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,www.nodeseek.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,ytv.co.jp
