@@ -88,6 +88,7 @@ fbsbx.com
 geoip.com
 gitlab.com
 hammerandchisel.ssl.zendesk.com
+hath.network
 hbo.com
 hbomax.com
 hbomaxcdn.com
