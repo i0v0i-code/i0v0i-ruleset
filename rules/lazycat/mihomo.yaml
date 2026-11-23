@@ -19,7 +19,6 @@ payload:
   - 'DOMAIN-SUFFIX,cip.cc'
   - 'DOMAIN-SUFFIX,cleanip.io'
   - 'DOMAIN-SUFFIX,cloudflare-dns.com'
-  - 'DOMAIN-SUFFIX,cloudflare-ech.com'
   - 'DOMAIN-SUFFIX,cloudflare-esni.com'
   - 'DOMAIN-SUFFIX,cloudflare-quic.com'
   - 'DOMAIN-SUFFIX,cloudflare.app'

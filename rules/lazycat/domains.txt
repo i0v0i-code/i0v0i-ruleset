@@ -18,7 +18,6 @@ checkip.amazonaws.com
 cip.cc
 cleanip.io
 cloudflare-dns.com
-cloudflare-ech.com
 cloudflare-esni.com
 cloudflare-quic.com
 cloudflare.app
