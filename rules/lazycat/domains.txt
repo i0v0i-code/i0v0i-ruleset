@@ -3,6 +3,9 @@ aiv-cdn.net
 aiv-delivery.net
 amazon.co.jp
 amazonvideo.com
+animate-onlineshop.jp
+animatebookstore.com
+animateonlineshop.queue-it.net
 api.myip.com
 bamgrid.com
 bangumi.org
@@ -13,6 +16,7 @@ cdninstagram.com
 check.place
 checkip.amazonaws.com
 cip.cc
+cleanip.io
 cloudflare-dns.com
 cloudflare-ech.com
 cloudflare-esni.com
@@ -39,7 +43,11 @@ cloudflarestorage.com
 cloudflarestream.com
 cloudflaresupport.com
 cloudflaretest.com
+cloudleadinno.com
+cloudsilk.io
+club-animate.jp
 cms-twdigitalassets.com
+colocrossing.com
 colorfulpalette.org
 comments.app
 crunchyroll.com
@@ -68,9 +76,12 @@ discordsays.com
 discordstatus.com
 disney-plus.net
 disneyplus.com
+dmit.io
+dmm.co.jp
 dmm.com
 dnsleaktest.com
 dssott.com
+ehgt.org
 facebook.com
 fast.com
 fbcdn.net
@@ -82,6 +93,9 @@ hbo.com
 hbomax.com
 hbomaxcdn.com
 hbonow.com
+hentaiathome.net
+hentaiverse.org
+hostdzire.com
 hulu.com
 huluim.com
 hulustream.com
@@ -124,6 +138,7 @@ line-apps.com
 linux.do
 max.com
 maxmind.com
+minsoku.net
 musical.ly
 myip.com
 netflix.com
@@ -142,10 +157,12 @@ peacocktv.com
 peacocktv.net
 periscope.tv
 ping0.cc
+pokedora.com
 pplusstatic.com
 primevideo.com
 pscp.tv
 r2.dev
+renta.papy.co.jp
 scamalytics.com
 scdn.co
 skyperfectv.co.jp
@@ -155,6 +172,7 @@ spotifycdn.com
 spotifycdn.net
 t.co
 t.me
+tc-animate.techorus-cdn.com
 tdesktop.com
 telegra.ph
 telegram-cdn.org
