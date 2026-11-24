@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,bangumi.org
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,check.place
 DOMAIN-SUFFIX,checkip.amazonaws.com
 DOMAIN-SUFFIX,cip.cc
@@ -81,10 +80,7 @@ DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,ehgt.org
-DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,geoip.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
@@ -105,7 +101,6 @@ DOMAIN-SUFFIX,ident.me
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,imagedelivery.net
-DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.net.coffee
 DOMAIN-SUFFIX,ip.sb
@@ -134,7 +129,6 @@ DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,ipwhois.io
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,kick.com
-DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,maxmind.com
@@ -171,7 +165,6 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,spotifycdn.net
-DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tc-animate.techorus-cdn.com
 DOMAIN-SUFFIX,tdesktop.com
@@ -183,8 +176,6 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tg.dev
-DOMAIN-SUFFIX,threads.com
-DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
@@ -195,18 +186,9 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tv-asahi.co.jp
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,tweetdeck.com
-DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,twitter.biz
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitter.jp
-DOMAIN-SUFFIX,twitter.map.fastly.net
-DOMAIN-SUFFIX,twittercommunity.com
-DOMAIN-SUFFIX,twitterinc.com
-DOMAIN-SUFFIX,twitteroauth.com
-DOMAIN-SUFFIX,twitterstat.us
 DOMAIN-SUFFIX,twtrdns.net
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
@@ -218,5 +200,4 @@ DOMAIN-SUFFIX,vrv.co
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,www.nodeseek.com
-DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,ytv.co.jp

@@ -12,7 +12,6 @@ bangumi.org
 browserleaks.com
 byteoversea.com
 cdn-telegram.org
-cdninstagram.com
 check.place
 checkip.amazonaws.com
 cip.cc
@@ -81,10 +80,7 @@ dmm.com
 dnsleaktest.com
 dssott.com
 ehgt.org
-facebook.com
 fast.com
-fbcdn.net
-fbsbx.com
 geoip.com
 gitlab.com
 hammerandchisel.ssl.zendesk.com
@@ -105,7 +101,6 @@ ident.me
 ifconfig.co
 ifconfig.me
 imagedelivery.net
-instagram.com
 ip-api.com
 ip.net.coffee
 ip.sb
@@ -134,7 +129,6 @@ ipwho.is
 ipwhois.io
 jtvnw.net
 kick.com
-line-apps.com
 linux.do
 max.com
 maxmind.com
@@ -171,7 +165,6 @@ speedtest.net
 spotify.com
 spotifycdn.com
 spotifycdn.net
-t.co
 t.me
 tc-animate.techorus-cdn.com
 tdesktop.com
@@ -183,8 +176,6 @@ telegram.org
 telegram.space
 telesco.pe
 tg.dev
-threads.com
-threads.net
 tiktok.com
 tiktokcdn-us.com
 tiktokcdn.com
@@ -195,18 +186,9 @@ ttvnw.net
 tv-asahi.co.jp
 tver.jp
 tweetdeck.com
-twimg.com
 twitch.tv
 twitchcdn.net
 twitpic.com
-twitter.biz
-twitter.com
-twitter.jp
-twitter.map.fastly.net
-twittercommunity.com
-twitterinc.com
-twitteroauth.com
-twitterstat.us
 twtrdns.net
 twttr.com
 twttr.net
@@ -218,5 +200,4 @@ vrv.co
 whatismyip.com
 whatismyipaddress.com
 www.nodeseek.com
-x.com
 ytv.co.jp
