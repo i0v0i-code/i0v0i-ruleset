@@ -7,6 +7,8 @@ animate-onlineshop.jp
 animatebookstore.com
 animateonlineshop.queue-it.net
 api.myip.com
+apple.cn
+apple.com
 bamgrid.com
 bangumi.org
 browserleaks.com
